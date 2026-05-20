@@ -1,0 +1,6 @@
+{
+  "name": "Body Blueprint",
+  "description": "A personalized body transformation and fitness app with automated rule-based planning, interactive silhouettes, voice coaching, and YouTube video library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
